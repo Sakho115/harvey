@@ -1,0 +1,11 @@
+{
+  "case_summary": "The automated system has flagged a critical pattern of property undervaluation across multiple transactions. With an aggregate undervaluation ratio of 0.267 and 12 instances exceeding a 30% discrepancy, the data suggests a systematic effort to misrepresent property values. Most notably, 9 of these transactions show a value gap of over 50%, triggering high-level risk flags for stamp duty evasion and data anomalies.",
+  "decision_rationale": "The classification of 'ILLEGAL' and 'CRITICAL' stems from the scale and nature of the discrepancies. By reporting property values significantly lower than their actual worth, these transactions appear to bypass mandatory state taxes (Stamp Duty). This isn't viewed as a series of isolated errors, but rather a systematic financial misrepresentation that violates specific legal statutes including the Stamp Act, Registration Act, and IPC provisions against fraud.",
+  "recommended_next_steps": [
+    "Initiate an immediate formal investigation into the identified 12 high-discrepancy transactions.",
+    "Issue a 'Freeze' order on any pending registrations associated with the flagged entities to prevent further loss of revenue.",
+    "Submit the 'CRITICAL_DATA_ANOMALY' report to the legal department for a detailed audit of the 'ZERO_VALUE_TRANSACTION' flags.",
+    "Coordinate with the revenue department to reassess the current market value of the properties in question for back-tax recovery."
+  ],
+  "confidence": 0.98
+}
